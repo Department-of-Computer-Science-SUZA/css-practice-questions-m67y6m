@@ -1,0 +1,12 @@
+p{
+    border: 1px solid grey;
+    text-align: justify;
+}
+img{
+    float: right;
+    height: 150px;
+    width: 100px;
+    margin: 5px;
+    border: 1px solid black;
+    padding: 5px;
+}
